@@ -1,2 +1,2 @@
 # basic-reactive-sample
-Sample project project on using Akka for reactive design
+Sample project on using Akka for reactive design to model a basic assembly line factory
